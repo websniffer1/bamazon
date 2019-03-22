@@ -47,8 +47,6 @@ To run the manager interface please follow the steps below:
 
 
 ##Screenshots
-Customer View
-[./images/customerview.PNG]
+![Image of customer view](./images/customerview.PNG)
 
-Manager View
-[./images/managerview.PNG]
+![Image of manager view](./images/managerview.PNG)
